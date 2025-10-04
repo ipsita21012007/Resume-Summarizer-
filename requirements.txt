@@ -1,0 +1,7 @@
+openai
+streamlit
+gradio
+flask
+pdfplumber
+python-docx
+python-dotenv
